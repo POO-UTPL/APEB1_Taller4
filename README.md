@@ -1,4 +1,4 @@
-# Taller 4 (Laboratorio) - GRUPAL
+# Taller 4 - Creación de programas usando estructuras de control selectivas y repetitivas
 
 ## Creación de programas usando estructuras condicionales y repetitivas
 
