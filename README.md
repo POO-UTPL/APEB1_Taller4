@@ -14,7 +14,7 @@ ___
 
 ## Problema 1 - Aplicación de _if()_
 
-Desarrolla un programa que automatice la venta de **_X_** productos. El programa debe permitir al usuario ingresar el precio de un producto y determinar el descuento aplicable según las siguientes reglas:
+Desarrolla un programa que automatice la venta de **_X_** producto. El programa debe permitir al usuario ingresar el precio de un producto y determinar el descuento aplicable según las siguientes reglas:
 
 * Si el precio del producto es mayor o igual a $1000, y el número de productos al menos 10, se aplica un descuento del 10%.
 * Si el precio del producto es menor a $1000, se aplica un descuento del 5%, independientemente del número de productos.
