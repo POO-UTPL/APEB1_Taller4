@@ -1,6 +1,6 @@
 # Taller 4 - Creación de programas usando estructuras de control selectivas y repetitivas
 
-## Creación de programas usando estructuras condicionales y repetitivas
+## Diseño orientado a objetos (DOO) aplicando estructuras de control
 
 * Leer detenidamente cada problemática propuesta.
 * Usar el programa **DIA-UML** _(Open source)_ para generar la representación de su solución _(modelado)_, vía diagramas de clases.
