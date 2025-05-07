@@ -58,7 +58,7 @@ Los requerimientos generales en resumen son los siguientes:
 -	Mostrar un resumen con totales de aceptados y rechazados.
 
 > [!Note]
-> - No olvide formatear el toString para visualizar los resultados de manera personalizada, organizada, comprensible. 
+> - No olvide formatear el _**toString()**_ para visualizar los resultados de manera personalizada, organizada, comprensible. 
 
 ## Problema 4 - Parque de diversiones
 
@@ -69,8 +69,8 @@ Por tanto, los requerimientos generales son los siguientes:
 -	Al final del día, se debe mostrar el resumen de cuántos cumplen con todas las condiciones.
 
 > [!Note]
-> - Para el DOO se sugiere modelar dos clases base, por ejemplo, Visitante y Parque, y finalmente el Ejecutor, que pruebe su funcionalidad. Nota: analice acertadamente la relación existen entre Visitante y Parque.
-> - No olvide formatear el toString para visualizar los resultados de manera personalizada, organizada, comprensible. 
+> - Para el **DOO** se sugiere modelar dos clases base, por ejemplo, Visitante y Parque, y finalmente el Ejecutor, que pruebe su funcionalidad. Nota: analice acertadamente la relación existen entre Visitante y Parque.
+> - No olvide formatear el _**toString()**_ para visualizar los resultados de manera personalizada, organizada, comprensible. 
 
 ## Problema 5 - Gym
 
@@ -82,5 +82,5 @@ Por tanto, los requerimientos generales son los siguientes:
 -	Mostrar resumen al finalizar: cuántos completaron su rutina y promedio de tiempo.
 
 > [!Note]
-> - Para el DOO se sugiere modelar dos clases base, por ejemplo, Cliente y Gimnasio, y finalmente el Ejecutor, que pruebe su funcionalidad. Nota: analice acertadamente la relación existen entre Cliente y Gimnasio.
-> - No olvide formatear el toString para visualizar los resultados de manera personalizada, organizada, comprensible. 
+> - Para el **DOO** se sugiere modelar dos clases base, por ejemplo, Cliente y Gimnasio, y finalmente el Ejecutor, que pruebe su funcionalidad. Nota: analice acertadamente la relación existen entre Cliente y Gimnasio.
+> - No olvide formatear el _**toString()**_ para visualizar los resultados de manera personalizada, organizada, comprensible. 
