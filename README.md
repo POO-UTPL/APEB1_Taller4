@@ -46,3 +46,41 @@ La clase "Empleado" debe tener los siguientes atributos:
 
 > [!Note]
 > - Clase "Empleado" debe tener un método llamado "mostrarInformacion" (toString) que imprima en pantalla la información del empleado.
+
+## Problema 3 - Autobús escolares
+
+Un conductor de autobús escolar necesita un sistema sencillo que le permita verificar si los estudiantes tienen permitido subir al autobús, según su ruta y si están autorizados para ese día. El programa debe permitir registrar temporalmente una lista de estudiantes con su nombre, grado, y si tienen permiso vigente. Luego, debe simular el ingreso de estudiantes, indicando si pueden subir o no, y mostrando al final un resumen del total de estudiantes aceptados y rechazados.
+
+Los requerimientos generales en resumen son los siguientes:
+
+-	Registrar estudiantes con los datos requeridos.  
+-	Simular el ingreso y verificar condiciones dadas. 
+-	Mostrar un resumen con totales de aceptados y rechazados.
+
+> [!Note]
+> - No olvide formatear el toString para visualizar los resultados de manera personalizada, organizada, comprensible. 
+
+## Problema 4 - Parque de diversiones
+
+Un parque de diversiones necesita controlar la entrada de visitantes según su edad y altura. Solo pueden ingresar a ciertos juegos los visitantes que cumplen con las restricciones mínimas. El programa debe registrar a los visitantes e indicar a cuáles juegos pueden acceder. Al final, debe mostrar cuántos visitantes cumplieron con todos los requisitos.
+Por tanto, los requerimientos generales son los siguientes:
+-	Registrar al visitante con los datos de entreda necesarios.
+-	Determinar si el visitante puede acceder al juegos de su elección.
+-	Al final del día, se debe mostrar el resumen de cuántos cumplen con todas las condiciones.
+
+> [!Note]
+> - Para el DOO se sugiere modelar dos clases base, por ejemplo, Visitante y Parque, y finalmente el Ejecutor, que pruebe su funcionalidad. Nota: analice acertadamente la relación existen entre Visitante y Parque.
+> - No olvide formatear el toString para visualizar los resultados de manera personalizada, organizada, comprensible. 
+
+## Problema 5 - Gym
+
+Un gimnasio desea implementar un sistema sencillo para registrar las rutinas de ejercicio de sus clientes. Cada cliente puede seleccionar entre diferentes tipos de ejercicios (cardio, fuerza, estiramiento), la duración de cada uno y si completó o no la rutina diaria. Al finalizar, el sistema debe mostrar cuántos clientes completaron su rutina y el tiempo promedio invertido.
+
+Por tanto, los requerimientos generales son los siguientes:
+-	Registrar nombre del cliente, tipo de ejercicio, duración y cumplimiento.
+-	Calcular estadísticas básicas.
+-	Mostrar resumen al finalizar: cuántos completaron su rutina y promedio de tiempo.
+
+> [!Note]
+> - Para el DOO se sugiere modelar dos clases base, por ejemplo, Cliente y Gimnasio, y finalmente el Ejecutor, que pruebe su funcionalidad. Nota: analice acertadamente la relación existen entre Cliente y Gimnasio.
+> - No olvide formatear el toString para visualizar los resultados de manera personalizada, organizada, comprensible. 
