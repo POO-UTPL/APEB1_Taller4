@@ -23,8 +23,8 @@ Una vez determinado el descuento, el programa debe calcular y mostrar el precio 
 
 El programa debe implementar una clase respectiva base que contenga al menos los métodos:
 
-* Un método llamado "calcularDescuento" que tome como parámetro el precio y número de productos y devuelva el descuento correspondiente.
-* Un método llamado "calcularPrecioFinal" que devuelva el precio final después de aplicar el descuento.
+* Un método llamado "**calcularDescuento**" que tome como parámetro el precio y número de productos y devuelva el descuento correspondiente.
+* Un método llamado "**calcularPrecioFinal**" que devuelva el precio final después de aplicar el descuento.
 
 Además, el programa debe solicitar al usuario ingresar el precio y número de productos y utilizar los métodos de la clase para calcular y mostrar el descuento aplicado y el precio final. No olvide que la clase de prueba (que contiene el método main), es quien realiza la gestión de ingreso de datos y/o visualización de resultados.
 
